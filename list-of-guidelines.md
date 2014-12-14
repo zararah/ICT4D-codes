@@ -3,6 +3,7 @@
 ## General
 
 * [User Guide: Data Integrity] (http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf) - FrontlineSMS
+* 'Details': A practical guide for FrontlineSMS users on applying a data integrity framework to design, implement and monitor programs.
 
 ## On data collection
 
