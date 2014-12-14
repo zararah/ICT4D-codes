@@ -1,6 +1,12 @@
 # ICT4D codes of conduct/guidelines
 
+## General
+
+* [User Guide: Data Integrity] (http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf) - FrontlineSMS
+
 ## On data collection
+
+* [
 
 ## Communications
 
