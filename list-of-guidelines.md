@@ -29,6 +29,14 @@
 
 * [ICT for data collection and monetoring and evaluation: Opportunities and guidance on mobile applications for forest and agricultural sectors] (www.unapcict.org/ ecohub/ ict-for-data-collection-and-monitoring-and-evaluation/ at_download/ attachment1)  - 2013, The World Bank - Details: "This report was developed in response to an identified need for development practitioners to be able to stay current with changing technology and identify appropriate avenues for assessing and selecting technology to support monitoring and evaluation (M&E) as well as project outcomes."
 
+# On data use
+
+* [Appropriate & Impactful Comparisons in Humanitarian Crisis (Guidance)](https://docs.google.com/document/d/127VGfweYDSmGGkMUleigAoAys9TO_Xb3v6KrCdGMe8M/edit)  - "The original purpose of this guidance document was to help OCHA’s Information Management Officers (IMOs) understand what types of comparisons may be required (and are appropriate) in order to better prepare their data stories."
+
+* [OCHA Information Management Toolbox](http://www.humanitarianresponse.info/applications/tools) - The Toolbox is the authoritative reference for OCHA information management tools and systems. Lots of useful info in here to understand how information is being recommended for use, and where the baseline is. 
+
+* [OCHA Information Management Guidance Sudden Onset Emergencies](https://docs.google.com/document/d/127VGfweYDSmGGkMUleigAoAys9TO_Xb3v6KrCdGMe8M/edit) 
+
 # Context / Background
 
 ## Concerns and calls for codes and data ethics
